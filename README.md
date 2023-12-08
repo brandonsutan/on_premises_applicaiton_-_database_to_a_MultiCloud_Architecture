@@ -2,7 +2,7 @@
 <summary>My carousel image</summary>
 <script>
 var keepTime = 2000; // time to keep each image in milliseconds
-var images = ["image1.jpg", "image2.jpg", "image3.jpg"]; // array of image URLs
+var images = ["/img/AWS_IAMusers.jpeg", "/img/AWS_s3bucket.jpeg", "img/destroy.jpeg", "/img/GKE_cluster.jpeg", "/img/GKE_deployment.jpeg", "/img/homepage.jpeg", "/img/recordspage.jpeg", "/img/SQLdatabse.jpeg"]; // array of image URLs
 var index = 0; // index of the current image
 var img = document.createElement("img"); // create an image element
 img.src = images[index]; // set the initial image source
