@@ -11,6 +11,8 @@ This project showcases the migration of an "on-premises" application - a COVID-1
 - **Google Cloud Platform (GCP)**: Cloud SQL for database and Container Registry for Docker images.
 - **Shell Scripting**: Automation of environment setup and configurations.
 - **SQL**: Database management and migration.
+- **Python**: Backend development for the web application.
+- **Flask**: Python web framework for building the web application.
 
 ## Implementation
 
